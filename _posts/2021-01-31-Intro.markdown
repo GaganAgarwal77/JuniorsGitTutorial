@@ -43,6 +43,7 @@ These are the steps to follow:
   - `cd MyIntro`
 - Then, go to your forked repository, click on the green code button and copy the link provided.
 - Then, go to your terminal and paste it. It could be of the form, `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+- This will create a folder with the name of the repository, do `cd JuniorsGitTutorial` to enter the folder
 
 ### Adding your files and information
 
